@@ -1,1 +1,2 @@
 # Tests-ABC
+password "admin"
